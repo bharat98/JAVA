@@ -10,7 +10,7 @@ without a method to print "I am enjoying my program in JAVA and I swear I will p
  */
 
 
-public class LAB1 {
+public class Displayoutput {
 
     /**
      * @param args the command line arguments
