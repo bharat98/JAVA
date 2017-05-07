@@ -6,3 +6,8 @@ Program 3 : Method calling & Method
 Program 4 : Binary Conversion  
 Program 5 : Simple Scenario Question  
 Program 6 : Roots Of Quadratic  
+
+
+SWINGS  
+
+Application 1 : Simple GUI application with frame(with component) and label.  
